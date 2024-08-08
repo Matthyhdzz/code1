@@ -1,5 +1,5 @@
 ﻿using Ucu.Poo.GitChallenge;
-//"hola, este es un comentario de prueba!"
+
 Console.WriteLine(Addition.Add(7, 2));
 Console.WriteLine(Substraction.Substract(10, 1));
 Console.WriteLine(Multiplication.Multiply(3, 3));
